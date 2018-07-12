@@ -2,11 +2,11 @@
 
 Full Stack projects are hosted on my [Personal GitHub Account](https://github.com/kat2018) where you can access all the details of each project, including wireframes, project management via Trello and ERDs.
 
-[Job Search Tracker](https://github.com/kat2018/job-search-tracker)
+### [Job Search Tracker](https://github.com/kat2018/job-search-tracker)
 
 ### Featured Project: [Parent Portal](https://github.com/kat2018/parent-portal)
 
-[Jeopardy](https://github.com/kat2018/Jeopardy)
+### [Jeopardy](https://github.com/kat2018/Jeopardy)
 
 
 
