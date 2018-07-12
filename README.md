@@ -23,6 +23,6 @@ Full Stack projects are hosted on my [Personal GitHub Account](https://github.co
 [Author Book Showcase Wireframe](https://github.com/kat2018/static_websites/blob/master/images/AuthorBookShowcaseWireframe.jpg)
 
 ## Project 4: [Calculator](http://lucid-rosalind-3cfd41.bitballoon.com/)
-[Author Book Showcase Wireframe](https://github.com/kat2018/static_websites/blob/master/images/KatCalculatorWireframe.png)
+[Calculator Wireframe](https://github.com/kat2018/static_websites/blob/master/images/KatCalculatorWireframe.png)
 
 
