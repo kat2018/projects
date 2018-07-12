@@ -2,7 +2,7 @@
 
 Full Stack projects are hosted on my [Personal GitHub Account](https://github.com/kat2018) where you can access all the details of each project, including wireframes, project management via Trello and ERDs.
 
-[Job Search Tracker](https://github.com/kat2018/job-search-tracker)
+Featured Project [Job Search Tracker](https://github.com/kat2018/job-search-tracker)
 
 [Parent Portal](https://github.com/kat2018/parent-portal)
 
@@ -13,7 +13,7 @@ Full Stack projects are hosted on my [Personal GitHub Account](https://github.co
 ------
 # Static Websites Portfolio 
 
-## Project 1: [Surfing STEM](http://surfingstem.bitballoon.com/)
+## Featured Project: [Surfing STEM](http://surfingstem.bitballoon.com/)
 [Surfing STEM Wireframes](https://photos.app.goo.gl/kCaXMu3tXT62EYeP6)
 
 ## Project 2: [LOST Series Fan Page](http://vigilant-lumiere-f18ed1.bitballoon.com/)
