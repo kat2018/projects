@@ -8,6 +8,8 @@ Full Stack projects are hosted on my [Personal GitHub Account](https://github.co
 
 ### [Jeopardy](https://github.com/kat2018/Jeopardy)
 
+### [Capstone Project available on 07/31/18!](https://github.com/kat2018/projects)
+
 
 
 ------
