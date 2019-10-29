@@ -4,13 +4,9 @@ Full Stack projects are hosted on my [Personal GitHub Account](https://github.co
 
 ### [Job Search Tracker](https://github.com/kat2018/job-search-tracker)
 
-### Featured Project: [Parent Portal](https://github.com/kat2018/parent-portal)
+### [Parent Portal](https://github.com/kat2018/parent-portal)
 
 ### [Jeopardy](https://github.com/kat2018/Jeopardy)
-
-### [Capstone Project available on 07/31/18!](https://github.com/kat2018/projects)
-
-
 
 ------
 # Static Websites Portfolio 
